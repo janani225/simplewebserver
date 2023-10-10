@@ -63,6 +63,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![image](https://github.com/janani225/simplewebserver/assets/113497333/57eba3df-227a-4902-a1de-a35dc481ed04)
+![image](https://github.com/janani225/simplewebserver/assets/113497333/cd68baa9-279d-4679-b7d7-d3ac02d4295f)
 
 
 ## RESULT:
